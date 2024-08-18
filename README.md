@@ -1,3 +1,4 @@
 # Add sidebar function at w3schools template
 
-[import React, { useState } from "react"];
+1. use import React, { useState } from "react";
+2. <Router><Routes><Routes/></Router>
